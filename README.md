@@ -8,5 +8,5 @@ Clone da Interface da Netflix: A página home, tentei deixar como uma pagina de 
 Carrossel de Imagens: Implementação de um carrossel para exibir imagens e permitir que os usuários adicionem comentários.
 Formulário de Login: tentei deixar do do mesmo jeito que esta no site, porem nao consegui muito.
 
-![Captura da tela do projeto](./assets/Captura%20netflix.png)
+![Captura netflix](https://github.com/user-attachments/assets/54734fb7-cc40-4062-af11-6420bd5a880f)
 
